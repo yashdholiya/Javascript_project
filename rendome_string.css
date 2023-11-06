@@ -1,0 +1,23 @@
+
+#strlength {
+    
+    background-color: blue;
+    height: 97px;
+    width: 100px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+#gen {
+    background-color: #ff0000;
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+    /* margin-left: 650px; */
+}
+
+h1 {
+    text-align: center;
+}
